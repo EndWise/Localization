@@ -73,5 +73,39 @@
   },
   "SEX_SUCCESS_NORMAL": {
     "ru": "&dСервер &8| &fПоздравляю! Вы успешно занялись сексом со своим партнером"
+  },
+
+  "LOCALIZATION_USAGE": {
+    "ru": [
+      "",
+      "&dAPI &8| &fДоступные команды:",
+      " &8&l● &7/localization reload [all] &8- &fобновить локализацию",
+      " &8&l● &7/localization add <файл> &8- &fдобавить файл",
+      ""
+    ]
+  },
+
+  "LOCALIZATION_RELOAD_PROCCESS": {
+    "ru": "&dAPI &8| &fВы начали обновлять локализацию..."
+  },
+
+  "LOCALIZATION_RELOAD_SUCCESS": {
+    "ru": "&dAPI &8| &fВы успешно обновили локализацию!"
+  },
+
+  "LOCALIZATION_RELOAD_ERROR": {
+    "ru": "&dAPI &8| &cВылезла ошибка. Посмотрите консоль"
+  },
+
+  "LOCALIZATION_ADD_ERROR": {
+    "ru": "&dAPI &8| &fТакого файла не существует!"
+  },
+
+  "LOCALIZATION_ADD_ALREADY": {
+    "ru": "&dAPI &8| &fЭтот файл уже добавлен!"
+  },
+
+  "LOCALIZATION_ADD_SUCCESS": {
+    "ru": "&dAPI &8| &fВы успешно добавили файл &a%s.json&f !"
   }
 }
