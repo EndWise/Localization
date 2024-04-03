@@ -81,11 +81,11 @@
 
   "LOCALIZATION_USAGE": {
     "ru": [
-      "",
+      "&c",
       "&dAPI &8| &fДоступные команды:",
       " &8&l● &7/localization reload [all] &8- &fобновить локализацию",
       " &8&l● &7/localization add <файл> &8- &fдобавить файл",
-      ""
+      "&c"
     ]
   },
 
