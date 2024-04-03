@@ -102,15 +102,11 @@
   },
 
   "LOCALIZATION_ADD_ERROR": {
-    "ru": "&dAPI &8| &fТакого файла не существует!"
+    "ru": "&dAPI &8| &fТакого файла не существует или он уже добавлен!"
   },
 
   "LOCALIZATION_ADD_USAGE": {
     "ru": "&cОшибка, пишите - /localization add <файл>"
-  },
-
-  "LOCALIZATION_ADD_ALREADY": {
-    "ru": "&dAPI &8| &fЭтот файл уже добавлен!"
   },
 
   "LOCALIZATION_ADD_SUCCESS": {
