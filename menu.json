@@ -1,0 +1,68 @@
+{
+  "EXIT_TITLE": {
+    "ru": "&cНазад"
+  },
+
+  "EXIT_LORE": {
+    "ru": [
+      "",
+      " &7Нажмите, чтобы перейти на",
+      " &7предыдущую страницу",
+      ""
+    ]
+  },
+
+  "SETTINGS_TITLE": {
+    "ru": "Настройки"
+  },
+
+  "SETTINGS_ENABLED_TITLE": {
+    "ru": "&aВключено"
+  },
+  "SETTINGS_ENABLED_LORE": {
+    "ru": "&7Нажмите, чтобы выключить"
+  },
+
+  "SETTINGS_DISABLED_TITLE": {
+    "ru": "&cВыключено"
+  },
+  "SETTINGS_DISABLED_LORE": {
+    "ru": "&7Нажмите, чтобы включить"
+  },
+
+  "SETTINGS_SPEED_TITLE": {
+    "ru": "&dСкорость"
+  },
+  "SETTINGS_SPEED_LORE": {
+    "ru": [
+      "",
+      " &7Позволяет включить или выключить",
+      " &7скорость",
+      ""
+    ]
+  },
+
+  "SETTINGS_DOUBLE_JUMP_TITLE": {
+    "ru": "&dДвойной прыжок"
+  },
+  "SETTINGS_DOUBLE_JUMP": {
+    "ru": [
+      "",
+      " &7Позволяет включить или выключить",
+      " &7двойной прыжок"
+    ]
+  },
+
+  "SETTINGS_FLY_TITLE": {
+    "ru": "&dФлай"
+  },
+
+  "SETTINGS_FLY_LORE": {
+    "ru": [
+      "",
+      " &7Позволяет включить или выключить",
+      " &7флай",
+      ""
+    ]
+  }
+}
