@@ -45,7 +45,7 @@
   "SETTINGS_DOUBLE_JUMP_TITLE": {
     "ru": "&dДвойной прыжок"
   },
-  "SETTINGS_DOUBLE_JUMP": {
+  "SETTINGS_DOUBLE_JUMP_LORE": {
     "ru": [
       "&c",
       " &7Позволяет включить или выключить",
