@@ -127,5 +127,25 @@
 
   "LOBBY_SUBTITLE": {
     "ru": "&fСервер EndWise теперь доступен всем!"
+  },
+
+  "HIDE_ENABLED_TITLE": {
+    "ru": "&aПоказать игроков"
+  },
+
+  "HIDE_DISABLED_TITLE": {
+    "ru": "&cСкрыть игроков"
+  },
+
+  "HIDE_ENABLED_LORE": {
+    "ru": [
+      "&7Нажмите, чтобы скрыть игроков
+    ]
+  },
+
+  "HIDE_DISABLED_LORE": {
+    "ru": [
+      "&7Нажмите, чтобы показать игроков"
+    ]
   }
 }
